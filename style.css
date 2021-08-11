@@ -1,0 +1,31 @@
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: maroon;
+}
+
+th{
+    font-weight: 800;
+    background-color: palevioletred;
+    color: #ffffff; 
+}
+
+tr{
+    background-color: plum;
+}
+
+td{
+    font-weight: 800;
+    background-color: plum;
+}
+
+a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
+ 
+ 
+
+
